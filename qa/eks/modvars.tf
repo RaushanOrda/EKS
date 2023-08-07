@@ -1,0 +1,3 @@
+module "modvars" {
+  source = "../vars/"
+}
